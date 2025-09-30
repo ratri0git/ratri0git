@@ -1,5 +1,4 @@
-## Hi there 👋
-# ratri0git: Cybersecurity 
+## ratri0git: Cybersecurity 
 
 ## About
 This repository showcases my progress in cybersecurity as I am learning along with hands on projects and challenges.
@@ -29,7 +28,8 @@ git clone https://github.com/ratri0git/ratri0git.git
 ```
 
 ## About Me
-I am driven pursue cybersecurity. This repo is setting the stage for ethical hacking and system security.
+Hi 👋 I am Nilkanth.
+I am driven to pursue cybersecurity. This repo is setting the stage for ethical hacking and system security.
 
 Connect with me on:
 - **Discord**: ratri0nil
