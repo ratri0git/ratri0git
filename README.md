@@ -1,5 +1,3 @@
-## ratri0git: Cybersecurity 
-
 ## About
 This repository showcases my progress in cybersecurity as I am learning along with hands on projects and challenges.
 
